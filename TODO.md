@@ -3,6 +3,7 @@
 ### Priority 1
 
 - フォロー中の コミュニティ/チャンネル 予約番組の表示UI改善
+- hoge
 
 ### Priority 2
 
